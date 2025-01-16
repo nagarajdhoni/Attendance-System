@@ -1,7 +1,7 @@
 # RFID Time Attendance System
 
 ## Overview
-This project implements a Real-Time Clock (RTC) based RFID attendance system using an LPC2148 microcontroller. The system captures RFID card data and timestamps each entry/exit, providing a reliable solution for attendance tracking in organizations.
+This project implements a Real-Time Clock (RTC) based RFID attendance system using an LPC2129 microcontroller. The system captures RFID card data and timestamps each entry/exit, providing a reliable solution for attendance tracking in organizations.
 
 ## Features
 - **Real-time clock integration** using DS1307 RTC module
